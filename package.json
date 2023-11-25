@@ -1,6 +1,21 @@
 {
-	"name": "nextjs-intro",
-	"private": true,
+	"name": "forbes-billionaires",
+	"version": "0.1.0",
+	"description": "world wide richest people using nextjs v12",
+	"license": "MIT",
+	"author": "toweringcloud",
+	"homepage": "https://toweringcloud.github.io/forbes-billionaires",
+	"inspiredby": "https://nomadcoders.co/nextjs-fundamentals",
+	"keywords": [
+		"react",
+		"nextjs",
+		"ssr",
+		"forbes",
+		"billionaires",
+		"grid",
+		"detail"
+	],
+	"type": "module",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
